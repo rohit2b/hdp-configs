@@ -1,0 +1,7 @@
+[network_topology]
+validatecore-4.c.pramod-thangali.internal=/default-rack
+10.240.24.194=/default-rack
+validatecore-3.c.pramod-thangali.internal=/default-rack
+10.240.1.195=/default-rack
+validatecore-5.c.pramod-thangali.internal=/default-rack
+10.240.180.143=/default-rack
